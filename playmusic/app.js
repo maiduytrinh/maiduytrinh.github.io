@@ -57,6 +57,12 @@ const app = {
       image: './img/NguoiChoiHeDep.jpg',
     },
     {
+      name: 'Người Chơi Hệ Đẹp',
+      singer: '16 Typh',
+      path: './music/NguoiChoiHeDep.mp3',
+      image: './img/NguoiChoiHeDep.jpg',
+    },
+    {
       name: 'Nevada',
       singer: 'Vicetone',
       path: './music/Nevada.mp3',
